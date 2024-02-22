@@ -13,7 +13,7 @@ export default function Header() {
   return (
     <header>
       <img src={headerIcon} alt="Stylized atom" />
-      <h1>React Mini Games Collection</h1>
+      <h1>Mini Games Collection</h1>
       <p>
         Ready to put your skills to the test? How about diving into the{" "}
         <b>{gameTitle}</b> game to get started?
