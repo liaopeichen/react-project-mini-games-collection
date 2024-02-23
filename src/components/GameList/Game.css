@@ -23,7 +23,7 @@
 #game-list li img {
   height: 4rem;
   width: 6rem;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 #game-list li h3 {
