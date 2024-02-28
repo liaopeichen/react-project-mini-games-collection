@@ -1,4 +1,4 @@
-import headerIcon from "../../assets/stylized-atom.png";
+import headerIcon from "assets/stylized-atom.png";
 import "./Header.css";
 
 const games = ["Guess Number", "Pig Game", "Tic Tac Toe", "Timer Challenge"];
