@@ -1,4 +1,4 @@
-import headerIcon from "../../assets/stylized-atom.png";
+// import headerIcon from "assets/stylized-atom.png";
 import "./Header.css";
 
 const games = ["Guess Number", "Pig Game", "Tic Tac Toe", "Timer Challenge"];
@@ -12,7 +12,7 @@ export default function Header() {
 
   return (
     <header>
-      <img src={headerIcon} alt="Stylized atom" />
+      {/* <img src={headerIcon} alt="Stylized atom" /> */}
       <h1>Mini Games Collection</h1>
       <p>
         Ready to put your skills to the test? How about diving into the{" "}
