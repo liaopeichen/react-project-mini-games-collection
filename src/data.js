@@ -1,11 +1,11 @@
-import guessNumberIcon from "assets/guess-number-icon.png";
-import pigGameIcon from "assets/pig-game-icon.png";
-import ticTacToeIcon from "assets/tic-tac-toe-icon.png";
-import timerChallengeIcon from "assets/timer-challenge-icon.png";
-import guessNumberScreenShot from "assets/guess-number-screenshot.png";
-import pigGameScreenShot from "assets/pig-game-screenshot.png";
-import ticTacToeScreenShot from "assets/tic-tac-toe-screenshot.png";
-import timerChallengeScreenShot from "assets/timer-challenge-screenshot.png";
+import guessNumberIcon from "/assets/guess-number-icon.png";
+import pigGameIcon from "/assets/pig-game-icon.png";
+import ticTacToeIcon from "/assets/tic-tac-toe-icon.png";
+import timerChallengeIcon from "/assets/timer-challenge-icon.png";
+import guessNumberScreenShot from "/assets/guess-number-screenshot.png";
+import pigGameScreenShot from "/assets/pig-game-screenshot.png";
+import ticTacToeScreenShot from "/assets/tic-tac-toe-screenshot.png";
+import timerChallengeScreenShot from "/assets/timer-challenge-screenshot.png";
 
 export const GAME_LIST = [
   {
