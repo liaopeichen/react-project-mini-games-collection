@@ -1,5 +1,6 @@
 import Game from "./Game.jsx";
 import { GAME_LIST } from "../../data.js";
+import "./GameList.css";
 
 export default function GameList() {
   return (
