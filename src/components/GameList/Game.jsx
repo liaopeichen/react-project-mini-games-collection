@@ -1,5 +1,3 @@
-import "./Game.css";
-
 export default function Game({ title, url, image, description }) {
   return (
     <li>
